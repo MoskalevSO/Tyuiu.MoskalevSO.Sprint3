@@ -13,6 +13,7 @@ namespace Tyuiu.MoskalevSO.Sprint3.Task0.V6.Lib
                 p *= 1 / Math.Pow(Math.Cos(5) + 1, 2);
             }
 
+            p = Math.Round(p, 3);
             return p;
         }
     }
