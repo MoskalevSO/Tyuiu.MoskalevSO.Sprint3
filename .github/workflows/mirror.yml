@@ -22,3 +22,4 @@ jobs:
           git remote add gitverse https://MoskalevSO:${{ secrets.GITVERSE_TOKEN }}@gitverse.ru/MoskalevSO/Tyuiu.MoskalevSO.Sprint3.git
           git push --all --force gitverse
           git push --tags --force gitverse
+
