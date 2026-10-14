@@ -12,7 +12,7 @@ namespace Tyuiu.MoskalevSO.Sprint3.Task5.V8.Test
             DataService ds = new DataService();
 
             double res = ds.GetSumSumSeries(1, 1, 3, 12);
-            double wait = 14.066;
+            double wait = 119.066;
 
             Assert.AreEqual(wait, res);
         }

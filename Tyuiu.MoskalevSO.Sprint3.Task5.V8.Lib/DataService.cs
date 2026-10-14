@@ -11,10 +11,9 @@ namespace Tyuiu.MoskalevSO.Sprint3.Task5.V8.Lib
             {
                 for (int k = startValue2; k <= stopValue2; k++)
                 {
-                    y += 1 / Math.Sin(k);
+                    y += 1 / Math.Sin(k) + 3;
                 }
             }
-            y += 3;
             return Math.Round(y, 3);
         }
     }
