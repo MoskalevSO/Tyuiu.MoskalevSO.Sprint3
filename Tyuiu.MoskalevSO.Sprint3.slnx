@@ -1,13 +1,17 @@
 <Solution>
-  <Folder Name="/Task1/">
+  <Folder Name="/Task0/">
     <Project Path="Tyuiu.MoskalevSO.Sprint3.Task0.V6.Lib/Tyuiu.MoskalevSO.Sprint3.Task0.V6.Lib.csproj" Id="003c4458-7c57-4999-a7d0-b7b0b353acd1" />
     <Project Path="Tyuiu.MoskalevSO.Sprint3.Task0.V6.Test/Tyuiu.MoskalevSO.Sprint3.Task0.V6.Test.csproj" Id="846ec791-a1a0-43aa-bd7a-e1dd75584ad0" />
     <Project Path="Tyuiu.MoskalevSO.Sprint3.Task0.V6/Tyuiu.MoskalevSO.Sprint3.Task0.V6.csproj" Id="4ca7dece-87d0-4e12-a0b6-ed9d97eaaf43" />
+  </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.MoskalevSO.Sprint3.Task1.V17.Lib/Tyuiu.MoskalevSO.Sprint3.Task1.V17.Lib.csproj" Id="c0568901-78da-491d-b97f-5d998b85cbd0" />
+    <Project Path="Tyuiu.MoskalevSO.Sprint3.Task1.V17.Test/Tyuiu.MoskalevSO.Sprint3.Task1.V17.Test.csproj" Id="50b8116d-6b88-4cb8-95f2-d113986279a9" />
+    <Project Path="Tyuiu.MoskalevSO.Sprint3.Task1.V17/Tyuiu.MoskalevSO.Sprint3.Task1.V17.csproj" Id="d654aeda-7eb8-4fe0-9eb9-dea91fed4438" />
   </Folder>
   <Folder Name="/Task2/" />
   <Folder Name="/Task3/" />
   <Folder Name="/Task4/" />
   <Folder Name="/Task5/" />
   <Folder Name="/Task6/" />
-  <Folder Name="/Task7/" />
 </Solution>
